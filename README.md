@@ -59,3 +59,28 @@ a. [The OpenKnot challenge page](https://eternagame.org/challenges/11843006)
 b. [OpenKnot update video from earlier in the year(https://www.youtube.com/watch?v=PDI7wsdjtt0)]
 
 5. [How a prior Eterna/Kaggle collaboration led to improved technologies for mRNA medicines](https://www.nature.com/articles/s42256-022-00571-8)
+
+
+---
+
+#### Dataset
+
+dataset/bpps
+
+dataset/eterna_openknot_metadata
+
+dataset/sequence_libraries
+
+dataset/supplementary_silico_predictions
+
+dataset/test_sequences.csv
+
+dataset/test_sequences.parquet
+
+dataset/train_data.csv
+
+dataset/train_data.parquet
+
+dataset/train_data_QUICK_START.csv
+
+dataset/train_data_QUICK_START.parquet
